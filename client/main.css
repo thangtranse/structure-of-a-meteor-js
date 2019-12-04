@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.input {
+    height: 50px;
+    min-width: 350px;
+    padding: 10px;
+}
